@@ -4,17 +4,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhi" />
 </p>
-<h3 align="center">Backend / DevOps Engineer • Building telemetry pipelines at scale</h3>
+<h3 align="center">Turning streams of data into stories, one Kafka topic at a time ⚡</h3>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/abhinandc3/count.svg" alt="Visitor's Count" />
-</p>
 
 ---
 
 ### 🔭 What I'm working on
 
-- Building a real-time trace ingestion pipeline (**Kafka → Flink → ClickHouse**) as part of a Telemetry-as-a-Service platform, using **OpenTelemetry** and **Apache Arrow**
+- Building a real-time trace ingestion pipeline (**Kafka → Flink → ClickHouse**)  using **OpenTelemetry** 
 - Tinkering with AI-assisted development workflows — reducing token usage in coding agents, writing better `AGENTS.md` / `CLAUDE.md` rule files
 - Building **CABO**, a multiplayer card game app, as a way to level up on frontend/full-stack skills
 
