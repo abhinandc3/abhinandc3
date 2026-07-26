@@ -30,9 +30,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandc3&repo=Cabo&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 📊 GitHub Stats
 
@@ -41,9 +38,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandc3&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandc3&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ### 🌱 Currently exploring
 
