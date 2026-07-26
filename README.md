@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandc3&repo=Cabo&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -64,3 +68,7 @@
 ---
 
 <p align="center"><i>⚡ Fun fact: this profile is rendered by a pipeline of Markdown, badges, and mild caffeine dependency.</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinandc3/abhinandc3/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
