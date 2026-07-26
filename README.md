@@ -1,7 +1,9 @@
 <p align="center">
   <img src="coding.gif" width="400" alt="Coding animation" />
 </p>
-<h1 align="center">Hi 👋, I'm Abhi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhi" />
+</p>
 <h3 align="center">Backend / DevOps Engineer • Building telemetry pipelines at scale</h3>
 
 <p align="center">
