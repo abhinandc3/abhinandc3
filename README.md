@@ -1,4 +1,4 @@
-<img src="assets/coding.gif" width="400" alt="Coding animation" />
+<img src="coding.gif" width="400" alt="Coding animation" />
 <h1 align="center">Hi 👋, I'm Abhi</h1>
 <h3 align="center">Backend / DevOps Engineer • Building telemetry pipelines at scale</h3>
 
