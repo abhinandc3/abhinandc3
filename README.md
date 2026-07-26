@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/abhinandc3/count.svg" alt="Visitor's Count" />
+  <img src="[https://profile-counter.glitch.me/abhinandc3](https://github.com/abhinandc3)/count.svg" alt="Visitor's Count" />
 </div>
 
 <!--
