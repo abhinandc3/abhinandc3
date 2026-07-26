@@ -1,6 +1,9 @@
 ## Hi there 👋
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
 
 <!--
+
 **abhinandc3/abhinandc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
